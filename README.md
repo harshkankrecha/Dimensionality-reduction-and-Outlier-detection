@@ -1,6 +1,6 @@
 # PCA, LLE & Outlier Detection
 
-Implementation of PCA, LLE & Outlier Detection from scratch using Python and NumPy as part of the Machine Learning Lab Course at TU Berlin
+Implementation of PCA, LLE & Outlier Detection from scratch using Python and NumPy as part of the Machine Learning Lab Course at TU Berlin.
 
 This repository focuses on building fundamental ML algorithms without relying on high-level machine learning frameworks, with emphasis on mathematical understanding, numerical optimization, and data visualization.
 
